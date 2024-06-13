@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextAnalzer-React/static/css/main.e6c13ad2.css",
+    "main.js": "/TextAnalzer-React/static/js/main.a63dad32.js",
+    "static/js/453.ed3810f9.chunk.js": "/TextAnalzer-React/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TextAnalzer-React/index.html",
+    "main.e6c13ad2.css.map": "/TextAnalzer-React/static/css/main.e6c13ad2.css.map",
+    "main.a63dad32.js.map": "/TextAnalzer-React/static/js/main.a63dad32.js.map",
+    "453.ed3810f9.chunk.js.map": "/TextAnalzer-React/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a63dad32.js"
+  ]
+}
